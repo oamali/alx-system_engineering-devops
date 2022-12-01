@@ -5,3 +5,4 @@
 4-listmorefiles displays directory content, including hidden files (starting with .) and using long format
 5-listfilesdigitonly display current directory content in long format with user and group IDs displayed numerically and also hidden files (starting with .)
 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
+8-firstdelete deletes file betty
