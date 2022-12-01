@@ -9,3 +9,4 @@
 9-firstdeletion deletes directory
 10-back changes working directory to previous one
 11-lists lists all files in current and parent
+12-file_type checks type of file
