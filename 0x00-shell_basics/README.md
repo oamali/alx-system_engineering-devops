@@ -7,3 +7,4 @@
 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
 8-firstdelete deletes file betty
 9-firstdeletion deletes directory
+10-back changes working directory to previous one
