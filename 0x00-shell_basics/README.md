@@ -3,3 +3,4 @@
 2-bring_me_home script changes the working directory to the home directory
 3-listfiles displays current directory contents in long format
 4-listmorefiles displays directory content, including hidden files (starting with .) and using long format
+5-listfilesdigitonly display current directory content in long format with user and group IDs displayed numerically and also hidden files (starting with .)
